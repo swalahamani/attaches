@@ -1,7 +1,7 @@
 {
-  "name": "@editorjs/attaches",
+  "name": "editor-js-attaches",
   "version": "1.3.1",
-  "repository": "https://github.com/editor-js/attaches",
+  "repository": "https://github.com/swalahamani/editor-js-attaches",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production",
@@ -15,10 +15,6 @@
     "editor.js",
     "editorjs"
   ],
-  "author": {
-    "name": "CodeX",
-    "email": "team@codex.so"
-  },
   "main": "./dist/bundle.js",
   "devDependencies": {
     "@babel/core": "^7.14.2",
